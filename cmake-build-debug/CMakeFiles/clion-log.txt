@@ -1,0 +1,4 @@
+"/Users/satoukakeru/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5787.29/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/satoukakeru/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5787.29/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/satoukakeru/dev/PLUTO -B /Users/satoukakeru/dev/PLUTO/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/satoukakeru/dev/PLUTO/cmake-build-debug
